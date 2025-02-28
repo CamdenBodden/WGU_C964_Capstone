@@ -27,10 +27,7 @@ Data Visualization: Includes scatter plots to compare actual vs. predicted price
 
 🚀 How to Use
 
-Open the My Binder notebook (link provided).
-Adjust the laptop specifications using sliders and dropdown menus.
-Click the "Predict Price" button to generate an estimated price.
-View results instantly within the notebook!
+Open the My Binder notebook (link provided). Select restart and run all cells. Adjust the laptop specifications using sliders and dropdown menus. Click the "Predict Price" button to generate an estimated price. View results instantly within the notebook!
 
 📂 Files in This Repository
 WGU_C964_Capstone.ipynb → The main notebook with model training, UI, and predictions.
