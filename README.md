@@ -6,7 +6,7 @@ Computer Science Capstone
 Western Governors University  
  
 The Binder Badge below allows you to automatically launch the development environment. When clicked, it will download the required dependencies and open a web-based version of the Jupyter Notebook
-https://mybinder.org/v2/gh/CamdenBodden/WGU_C964_Capstone/25d407222f8d70f27f36664fc17649dadefaca0f?urlpath=lab%2Ftree%2FWGU_C964_Capstone.ipynb
+Place link
 
 ## Project Summary: WGU C964 Capstone - Laptop Price Prediction
 📌 Project Overview
