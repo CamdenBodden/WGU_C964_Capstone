@@ -7,7 +7,7 @@ Western Governors University
  
 The Binder Badge below allows you to automatically launch the development environment. When clicked, it will download the required dependencies and open a web-based version of the Jupyter Notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CamdenBodden/WGU_C964_Capstone/b3875a2034f698d349bd9fb4f52a1926e5a4dce8?urlpath=lab%2Ftree%2FWGU_C964_Capstone.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CamdenBodden/WGU_C964_Capstone/f308d6abc06c9c90a3c7d7c6ecf4decbf396220a?urlpath=lab%2Ftree%2FWGU_C964_Capstone.ipynb)
 
 ## Project Summary: WGU C964 Capstone - Laptop Price Prediction
 📌 Project Overview
